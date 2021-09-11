@@ -4,7 +4,7 @@ A simple utility to exclude one set of routes from another.
 C++20, cmake.
 
 ### On Windows
-Tested with LLVM's clang-cl and Visual Studio Build Tools.
+Visual Studio 2019 Build Tools.
 
 # Building
 ```mkdir build && cd build && cmake .. && make```
